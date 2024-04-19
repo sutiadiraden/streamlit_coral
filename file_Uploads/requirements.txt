@@ -74,3 +74,9 @@ tzdata==2024.1
 ultralytics==8.1.30
 urllib3==2.2.1
 watchdog==4.0.0
+cv2==1.0.0
+cvzone==1.6.1
+collections==0.1.6
+glob2==0.7
+csv==2.0.0
+datetime==5.4
